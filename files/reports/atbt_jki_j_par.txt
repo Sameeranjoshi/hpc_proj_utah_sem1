@@ -1,0 +1,66 @@
+atbt_jki_j_par
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 1.67; Max: 1.67
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.06 0.11 0.19 0.26 0.30 0.31 0.30 0.31 0.34 
+Worst Performance (GFLOPS): 0.06 0.11 0.16 0.22 0.26 0.28 0.27 0.29 0.30 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 1.16; Max: 1.16
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.09 0.16 0.26 0.34 0.42 0.46 0.46 0.47 0.49 
+Worst Performance (GFLOPS): 0.09 0.16 0.23 0.29 0.38 0.34 0.39 0.45 0.47 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.24; Max: 0.24
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.11 0.16 0.24 0.30 0.48 0.49 0.49 0.51 0.50 
+Worst Performance (GFLOPS): 0.11 0.16 0.22 0.28 0.40 0.39 0.45 0.46 0.46 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.24; Max: 0.24
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.19 0.37 0.72 1.32 1.78 2.13 2.43 2.60 3.21 
+Worst Performance (GFLOPS): 0.19 0.37 0.72 1.29 1.78 2.11 2.40 2.60 2.88 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.22; Max: 0.22
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.29 0.58 1.16 2.32 2.85 3.36 3.89 4.10 6.07 
+Worst Performance (GFLOPS): 0.29 0.57 1.15 2.32 2.85 3.36 3.88 4.09 5.91 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.24; Max: 0.24
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 2.00 2.58 1.10 0.33 0.43 0.39 0.42 0.46 0.52 
+Worst Performance (GFLOPS): 2.00 2.44 1.04 0.31 0.29 0.23 0.30 0.28 0.41 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.27; Max: 0.27
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 1.88 1.65 0.11 0.11 0.11 0.11 0.11 0.12 0.12 
+Worst Performance (GFLOPS): 1.87 1.16 0.11 0.11 0.11 0.11 0.11 0.12 0.12 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 2.40; Max: 2.40
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.12 0.23 0.47 0.92 1.15 1.38 1.61 1.72 1.78 
+Worst Performance (GFLOPS): 0.12 0.23 0.47 0.92 1.15 1.38 1.60 1.72 1.70 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 1.91; Max: 1.91
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.15 0.31 0.61 1.22 1.53 1.83 2.13 2.28 2.30 
+Worst Performance (GFLOPS): 0.15 0.31 0.61 1.18 1.53 1.77 2.06 2.28 2.22 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.23; Max: 0.23
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.21 0.42 0.83 1.65 2.06 2.46 2.87 3.08 3.26 
+Worst Performance (GFLOPS): 0.21 0.42 0.83 1.61 2.02 2.42 2.77 3.08 3.18 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.31; Max: 0.31
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 1.93 3.52 6.89 13.36 16.38 19.34 22.10 23.13 6.12 
+Worst Performance (GFLOPS): 1.93 3.47 6.85 10.22 16.19 15.40 22.02 23.08 5.31 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.73; Max: 0.73
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 2.01 3.02 6.27 2.67 1.42 1.31 1.33 1.33 1.27 
+Worst Performance (GFLOPS): 2.01 2.64 6.24 2.48 1.27 1.23 1.00 1.21 1.10 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.23; Max: 0.23
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 2.06 3.46 0.42 0.18 0.19 0.19 0.19 0.19 0.26 
+Worst Performance (GFLOPS): 2.04 3.33 0.41 0.16 0.17 0.18 0.18 0.19 0.22 

@@ -1,0 +1,51 @@
+atbt_jik_unrollk_par
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 1.67; Max: 1.67
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.50 0.77 1.50 2.63 3.20 3.73 4.16 4.10 4.79 
+Worst Performance (GFLOPS): 0.50 0.76 1.47 2.42 2.99 3.57 3.98 3.43 4.55 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 1.20; Max: 1.20
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.73 1.17 2.27 4.39 5.56 6.60 7.68 8.26 4.41 
+Worst Performance (GFLOPS): 0.73 1.14 2.20 4.37 5.31 6.54 6.84 8.24 3.81 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.24; Max: 0.24
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.25 0.50 1.00 2.01 2.50 3.00 3.49 3.74 3.77 
+Worst Performance (GFLOPS): 0.25 0.50 1.00 2.00 2.50 2.90 3.49 3.74 3.76 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.24; Max: 0.24
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.26 0.51 1.02 2.03 2.53 3.03 3.52 3.77 3.84 
+Worst Performance (GFLOPS): 0.26 0.51 1.02 2.03 2.53 3.03 3.52 3.77 3.78 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.22; Max: 0.22
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.24 0.33 0.66 1.47 1.83 2.16 2.49 2.61 4.05 
+Worst Performance (GFLOPS): 0.24 0.33 0.64 1.14 1.79 2.12 2.39 2.55 3.66 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.24; Max: 0.24
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.24 0.31 0.63 1.34 1.49 1.70 2.01 2.44 3.08 
+Worst Performance (GFLOPS): 0.24 0.31 0.59 1.24 1.47 1.69 1.90 2.40 3.08 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.27; Max: 0.27
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.26 0.35 0.65 1.24 1.25 1.28 1.30 1.69 2.30 
+Worst Performance (GFLOPS): 0.26 0.35 0.63 1.15 1.18 1.18 1.27 1.68 2.23 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 2.37; Max: 2.40
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 1.10 2.03 4.04 8.01 10.00 11.97 13.94 14.96 21.11 
+Worst Performance (GFLOPS): 1.10 2.01 4.03 8.01 9.99 11.95 13.91 14.93 20.14 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 1.91; Max: 1.91
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 1.43 2.79 5.48 10.91 13.61 16.40 19.01 20.30 26.66 
+Worst Performance (GFLOPS): 1.43 2.75 5.47 9.63 13.57 14.44 18.98 17.59 19.15 
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATBT (in GFLOPS) Min: 0.23; Max: 0.23
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 0.25 0.49 0.98 1.96 2.45 2.92 3.40 3.65 3.66 
+Worst Performance (GFLOPS): 0.25 0.49 0.98 1.86 2.45 2.92 3.25 3.65 3.56 
