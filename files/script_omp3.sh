@@ -3,13 +3,11 @@
 ## declare an array variable
 #declare -a arr=("atb_ikj_unrollk2.c"  "atb_ikj_unrollk2_tilei32.c"  "atb_ikj_unrollk4.c"  "atb_par.c"  "atb_par_unroll.c")
 
-declare -a arr=( "atb3_par.c"
-"atb5_par.c"
-"atb6_par.c"
-"atb7_par.c"
-"atb_ikj_par.c"
-"atb_ikj_unrollk2_tilei32.c")
-
+declare -a arr=(
+"atb_kij_unrollj2_par.c"
+"atb_kij_unrollj4_par.c"
+"atb_kij_unrollj4_tilek_par.c"
+)
 ## now loop through the above array
 for i in "${arr[@]}"
 do

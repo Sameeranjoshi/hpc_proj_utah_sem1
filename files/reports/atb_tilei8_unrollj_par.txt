@@ -1,0 +1,52 @@
+atb_tilei8_unrollj_par
+Inputsizes: 8192 8192 16
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 1.44; Max: 1.44
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 131072, was: 166461440480.000000, should be: 83230720240.000000
+Inputsizes: 4096 4096 64
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 1.01; Max: 1.01
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 65536, was: 2863933687680.000000, should be: 1431966843840.000000
+Inputsizes: 2048 2048 256
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.70; Max: 0.70
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 32768, was: 46640115228160.000000, should be: 23320057614080.000000
+Inputsizes: 1024 1024 1024
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.20; Max: 0.20
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 16384, was: 749517947303936.000000, should be: 374758973651968.000000
+Inputsizes: 256 256 16384
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.23; Max: 0.24
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 4096, was: 192137091717992384.000000, should be: 96068545859019488.000000
+Inputsizes: 64 64 262144
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.12; Max: 0.13
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 1024, was: 49191106423921475584.000000, should be: 24595553211912712192.000000
+Inputsizes: 16 16 4194304
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.13; Max: 0.13
+Max Threads (from omp_get_max_threads) = 32
+Performance (Best & Worst) of parallelized version: GFLOPS on 1/2/4/8/10/12/14/15/31 threads
+Best Performance (GFLOPS): 1.20 1.20 1.20 1.20 0.96 0.88 0.88 0.88 0.88 
+Worst Performance (GFLOPS): 1.20 1.20 1.20 1.20 0.88 0.88 0.88 0.87 0.87 
+Inputsizes: 8991 8991 37
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 1.49; Max: 1.49
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 143856, was: 2620315498674.000000, should be: 1310157749337.000000
+Inputsizes: 2997 2997 111
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 1.43; Max: 1.44
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 47952, was: 8079633132480.000000, should be: 4039816566240.000000
+Inputsizes: 999 999 999
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.22; Max: 0.22
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 15984, was: 662360255784936.000000, should be: 331180127892468.000000
+Inputsizes: 333 333 8991
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.27; Max: 0.27
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 5328, was: 53722006396304680.000000, should be: 26861003198152132.000000
+Inputsizes: 111 111 80919
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.33; Max: 0.33
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 1776, was: 4352104649029599232.000000, should be: 2176052324515085824.000000
+Inputsizes: 37 37 728271

@@ -3,13 +3,9 @@
 ## declare an array variable
 #declare -a arr=("atb_ikj_unrollk2.c"  "atb_ikj_unrollk2_tilei32.c"  "atb_ikj_unrollk4.c"  "atb_par.c"  "atb_par_unroll.c")
 
-declare -a arr=( "atb3_par.c"
-"atb5_par.c"
-"atb6_par.c"
-"atb7_par.c"
-"atb_ikj_par.c"
-"atb_ikj_unrollk2_tilei32.c")
-
+declare -a arr=( 
+"atb_kij_tilek_unroll2_par.c"   "atb_par_unroll.c"
+)
 ## now loop through the above array
 for i in "${arr[@]}"
 do
@@ -32,6 +28,7 @@ do
 	 #Open the file
 	 while read -r line; do
 	     #process the line
+	     echo "Inputsizes: $line"
 	     echo "Inputsizes: $line" >> reports/$filename.txt
 	     #Pass the line as input to another script
 	     	    echo "$line" | ./exe/$filename.out  >> reports/$filename.txt

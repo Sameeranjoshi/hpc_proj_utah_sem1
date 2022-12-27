@@ -4,7 +4,6 @@ void atb_par(const double *__restrict__ A, const double *__restrict__ B, double 
 
 #pragma omp parallel private(i,j,k)
  {
-//#pragma omp for
 for (k = 0; k < Nk; k++)
 #pragma omp for
   for (i = 0; i < Ni; i++)
