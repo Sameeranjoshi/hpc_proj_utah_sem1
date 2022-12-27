@@ -1,0 +1,66 @@
+atbt_shared
+Specify Matrix dimension Ni, Nj, Nk: <Ni=8192,Nj=8192,Nk=16>: Trial 0: GFLOPS: 234.18
+<Ni=8192,Nj=8192,Nk=16>: Trial 1: GFLOPS: 234.30
+<Ni=8192,Nj=8192,Nk=16>: Trial 2: GFLOPS: 234.33
+<Ni=8192,Nj=8192,Nk=16>: Trial 3: GFLOPS: 234.29
+<Ni=8192,Nj=8192,Nk=16>: Trial 4: GFLOPS: 234.32
+Specify Matrix dimension Ni, Nj, Nk: <Ni=4096,Nj=4096,Nk=64>: Trial 0: GFLOPS: 256.12
+<Ni=4096,Nj=4096,Nk=64>: Trial 1: GFLOPS: 256.15
+<Ni=4096,Nj=4096,Nk=64>: Trial 2: GFLOPS: 256.19
+<Ni=4096,Nj=4096,Nk=64>: Trial 3: GFLOPS: 256.19
+<Ni=4096,Nj=4096,Nk=64>: Trial 4: GFLOPS: 256.17
+Specify Matrix dimension Ni, Nj, Nk: <Ni=2048,Nj=2048,Nk=256>: Trial 0: GFLOPS: 261.87
+<Ni=2048,Nj=2048,Nk=256>: Trial 1: GFLOPS: 261.33
+<Ni=2048,Nj=2048,Nk=256>: Trial 2: GFLOPS: 261.24
+<Ni=2048,Nj=2048,Nk=256>: Trial 3: GFLOPS: 261.91
+<Ni=2048,Nj=2048,Nk=256>: Trial 4: GFLOPS: 261.90
+Specify Matrix dimension Ni, Nj, Nk: <Ni=1024,Nj=1024,Nk=1024>: Trial 0: GFLOPS: 260.35
+<Ni=1024,Nj=1024,Nk=1024>: Trial 1: GFLOPS: 259.64
+<Ni=1024,Nj=1024,Nk=1024>: Trial 2: GFLOPS: 259.92
+<Ni=1024,Nj=1024,Nk=1024>: Trial 3: GFLOPS: 259.80
+<Ni=1024,Nj=1024,Nk=1024>: Trial 4: GFLOPS: 259.77
+Specify Matrix dimension Ni, Nj, Nk: <Ni=256,Nj=256,Nk=16384>: Trial 0: GFLOPS: 190.52
+<Ni=256,Nj=256,Nk=16384>: Trial 1: GFLOPS: 183.14
+<Ni=256,Nj=256,Nk=16384>: Trial 2: GFLOPS: 183.14
+<Ni=256,Nj=256,Nk=16384>: Trial 3: GFLOPS: 191.40
+<Ni=256,Nj=256,Nk=16384>: Trial 4: GFLOPS: 191.27
+Specify Matrix dimension Ni, Nj, Nk: <Ni=64,Nj=64,Nk=262144>: Trial 0: GFLOPS: 83.87
+<Ni=64,Nj=64,Nk=262144>: Trial 1: GFLOPS: 83.85
+<Ni=64,Nj=64,Nk=262144>: Trial 2: GFLOPS: 85.14
+<Ni=64,Nj=64,Nk=262144>: Trial 3: GFLOPS: 85.64
+<Ni=64,Nj=64,Nk=262144>: Trial 4: GFLOPS: 84.98
+Specify Matrix dimension Ni, Nj, Nk: <Ni=16,Nj=16,Nk=4194304>: Trial 0: GFLOPS: 6.50
+<Ni=16,Nj=16,Nk=4194304>: Trial 1: GFLOPS: 6.50
+<Ni=16,Nj=16,Nk=4194304>: Trial 2: GFLOPS: 6.50
+<Ni=16,Nj=16,Nk=4194304>: Trial 3: GFLOPS: 6.50
+<Ni=16,Nj=16,Nk=4194304>: Trial 4: GFLOPS: 6.50
+Specify Matrix dimension Ni, Nj, Nk: <Ni=8991,Nj=8991,Nk=37>: Trial 0: GFLOPS: 232.57
+<Ni=8991,Nj=8991,Nk=37>: Trial 1: GFLOPS: 232.85
+<Ni=8991,Nj=8991,Nk=37>: Trial 2: GFLOPS: 232.83
+<Ni=8991,Nj=8991,Nk=37>: Trial 3: GFLOPS: 232.89
+<Ni=8991,Nj=8991,Nk=37>: Trial 4: GFLOPS: 232.84
+Specify Matrix dimension Ni, Nj, Nk: <Ni=2997,Nj=2997,Nk=111>: Trial 0: GFLOPS: 256.43
+<Ni=2997,Nj=2997,Nk=111>: Trial 1: GFLOPS: 255.98
+<Ni=2997,Nj=2997,Nk=111>: Trial 2: GFLOPS: 256.38
+<Ni=2997,Nj=2997,Nk=111>: Trial 3: GFLOPS: 256.50
+<Ni=2997,Nj=2997,Nk=111>: Trial 4: GFLOPS: 256.29
+Specify Matrix dimension Ni, Nj, Nk: <Ni=999,Nj=999,Nk=999>: Trial 0: GFLOPS: 260.47
+<Ni=999,Nj=999,Nk=999>: Trial 1: GFLOPS: 259.97
+<Ni=999,Nj=999,Nk=999>: Trial 2: GFLOPS: 260.08
+<Ni=999,Nj=999,Nk=999>: Trial 3: GFLOPS: 260.90
+<Ni=999,Nj=999,Nk=999>: Trial 4: GFLOPS: 260.06
+Specify Matrix dimension Ni, Nj, Nk: <Ni=333,Nj=333,Nk=8991>: Trial 0: GFLOPS: 254.74
+<Ni=333,Nj=333,Nk=8991>: Trial 1: GFLOPS: 254.63
+<Ni=333,Nj=333,Nk=8991>: Trial 2: GFLOPS: 254.97
+<Ni=333,Nj=333,Nk=8991>: Trial 3: GFLOPS: 254.62
+<Ni=333,Nj=333,Nk=8991>: Trial 4: GFLOPS: 254.91
+Specify Matrix dimension Ni, Nj, Nk: <Ni=111,Nj=111,Nk=80919>: Trial 0: GFLOPS: 207.67
+<Ni=111,Nj=111,Nk=80919>: Trial 1: GFLOPS: 208.24
+<Ni=111,Nj=111,Nk=80919>: Trial 2: GFLOPS: 208.70
+<Ni=111,Nj=111,Nk=80919>: Trial 3: GFLOPS: 208.55
+<Ni=111,Nj=111,Nk=80919>: Trial 4: GFLOPS: 208.29
+Specify Matrix dimension Ni, Nj, Nk: <Ni=37,Nj=37,Nk=728271>: Trial 0: GFLOPS: 34.77
+<Ni=37,Nj=37,Nk=728271>: Trial 1: GFLOPS: 34.77
+<Ni=37,Nj=37,Nk=728271>: Trial 2: GFLOPS: 34.77
+<Ni=37,Nj=37,Nk=728271>: Trial 3: GFLOPS: 34.77
+<Ni=37,Nj=37,Nk=728271>: Trial 4: GFLOPS: 34.78

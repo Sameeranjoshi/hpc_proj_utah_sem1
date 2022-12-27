@@ -50,3 +50,6 @@ Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for A
 Max Threads (from omp_get_max_threads) = 32
 Error: mismatch at linearized index 1776, was: 4352104649029599232.000000, should be: 2176052324515085824.000000
 Inputsizes: 37 37 728271
+Specify Matrix dimension Ni, Nj, Nk: Reference sequential code performance for ATB (in GFLOPS) Min: 0.12; Max: 0.12
+Max Threads (from omp_get_max_threads) = 32
+Error: mismatch at linearized index 592, was: 352525657294556954624.000000, should be: 176262828647279656960.000000
