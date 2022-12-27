@@ -17,3 +17,5 @@ nvcc -O3 atbt_main.cu atbt_par.cu
 ```
 
 To see the reports we have generated check `report` for OpenMP &  `report_gpu` for CUDA codes.
+
+We have an [excel](https://docs.google.com/spreadsheets/d/1ir2cIa9oyMpzsyp6Z6ynQKn3QNsJmzfG10438fz-rAs/edit?usp=sharing) for this above reports to summarize it.
