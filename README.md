@@ -1,0 +1,19 @@
+# hpc_proj_utah_sem1
+
+# How to run this project
+
+The final versions are in the folder `final_files`, various other folders have other scripts which we used for scrapping the machines which are working, scripts to test and run the various inputs.
+
+The final optimized codes are in the folder `final_files` the way to run each of the questions is 
+
+```
+gcc -O3 -fopenmp atb_main.c atb_par.c
+gcc -O3 -fopenmp atbt_main.c atbt_par.c
+
+module load cuda
+nvcc -O3 atb_main.cu atb_par.cu
+nvcc -O3 atbt_main.cu atbt_par.cu
+
+```
+
+To see the reports we have generated check `report` for OpenMP &  `report_gpu` for CUDA codes.
