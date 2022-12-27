@@ -7,6 +7,7 @@ The final versions are in the folder `final_files`, various other folders have o
 The final optimized codes are in the folder `final_files` the way to run each of the questions is 
 
 ```
+cd final_files/
 gcc -O3 -fopenmp atb_main.c atb_par.c
 gcc -O3 -fopenmp atbt_main.c atbt_par.c
 
